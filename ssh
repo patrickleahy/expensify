@@ -1,1 +1,0 @@
-ssh -i ~/.ssh/recon1.pem bitnami@174.129.214.103 -t "cd /home/bitnami/web ; bash"
